@@ -1,2 +1,2 @@
 # CILS-Service-Gateway
-web template for CILS Service Gateway
+Web template for CILS Service Gateway
